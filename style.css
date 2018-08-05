@@ -1,0 +1,40 @@
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+}
+#row {
+    display:flex;
+    justify-content:space-around;
+}
+#mid{
+    display:flex;
+    justify-content:space-around;
+}
+.headshot{
+    width:30%;
+    height:300px;
+    border-radius: 50%;
+   
+}
+#pic{
+    width:1000px;
+    height:500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
